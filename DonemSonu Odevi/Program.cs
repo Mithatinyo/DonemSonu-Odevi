@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string formatHata = "Lütfen sadece sayıyı uygun formatta giriniz";
+            string formatHata = "Lütfen sadece sayıyı uygun formatta giriniz" ;
             string OverflowHata = "Girilen sayı değeri tanımlanamadı";
             string notDegeriHata = "Notu 0-100 aralığında girmelisiniz";
 
